@@ -1,0 +1,169 @@
+{
+  "featured": [
+    {
+      "image": "/food/fried-chicken.jpg",
+      "title": "Streetwise 2",
+      "desc": "Two pieces of chicken served with regular chips.",
+      "price": "17000",
+      "type": "chicken"
+    },
+    {
+      "image": "/food/chicken-sandwich.jpg",
+      "title": "Zinger Burger",
+      "desc": "Spicy chicken fillet burger with lettuce and mayonnaise.",
+      "price": "18000",
+      "type": "burger"
+    },
+    {
+      "image": "/food/crispy-chicken.jpg",
+      "title": "8 Piece Bucket",
+      "desc": "Eight pieces of chicken with sides and soft drinks.",
+      "price": "60000",
+      "type": "chicken"
+    }
+  ],
+  "favorites": [
+    {
+      "image": "/food/fried-chicken.jpg",
+      "title": "Streetwise 1",
+      "desc": "A single piece of chicken served with regular chips.",
+      "price": null,
+      "type": "chicken"
+    },
+    {
+      "image": "/food/fried-chicken.jpg",
+      "title": "Streetwise 2",
+      "desc": "Two pieces of chicken served with regular chips.",
+      "price": "17000",
+      "type": "chicken"
+    },
+    {
+      "image": "/food/fried-chicken.jpg",
+      "title": "Streetwise 3",
+      "desc": "A three-piece chicken meal.",
+      "price": null,
+      "type": "chicken"
+    },
+    {
+      "image": "/food/fried-chicken.jpg",
+      "title": "Streetwise 5",
+      "desc": "Five pieces of chicken served with large chips.",
+      "price": "35000",
+      "type": "chicken"
+    },
+    {
+      "image": "/food/chicken-sandwich.jpg",
+      "title": "Zinger Burger",
+      "desc": "Spicy chicken fillet burger with lettuce and mayonnaise.",
+      "price": "18000",
+      "type": "burger"
+    },
+    {
+      "image": "/food/chicken-sandwich.jpg",
+      "title": "Twister",
+      "desc": "Chicken strips wrapped with fresh salad and dressing.",
+      "price": null,
+      "type": "rolls"
+    },
+    {
+      "image": "/food/chicken-sandwich.jpg",
+      "title": "Boxmaster",
+      "desc": "A filling chicken wrap with complementary ingredients.",
+      "price": null,
+      "type": "boxmeals"
+    },
+    {
+      "image": "/food/biryani.jpg",
+      "title": "12 Piece Bucket",
+      "desc": "A chicken bucket for sharing with family and friends.",
+      "price": "85000",
+      "type": "stayhome"
+    },
+    {
+      "image": "/food/cola.jpg",
+      "title": "Pepsi 500 ml",
+      "desc": "A chilled soft drink.",
+      "price": "3000",
+      "type": "beverages"
+    },
+    {
+      "image": "/food/fries.jpg",
+      "title": "Regular Chips",
+      "desc": "Golden, crispy chips to enjoy with your meal.",
+      "price": null,
+      "type": "snacks"
+    }
+  ],
+  "quickbites": [
+    {
+      "image": "/food/fried-chicken.jpg",
+      "title": "1 Piece Chicken",
+      "desc": "A single piece of seasoned fried chicken.",
+      "price": null,
+      "type": "snacks"
+    },
+    {
+      "image": "/food/fried-chicken.jpg",
+      "title": "Streetwise 2",
+      "desc": "Two pieces of chicken served with regular chips.",
+      "price": "17000",
+      "type": "chicken"
+    },
+    {
+      "image": "/food/fried-chicken.jpg",
+      "title": "Streetwise 3",
+      "desc": "A three-piece chicken meal.",
+      "price": null,
+      "type": "chicken"
+    },
+    {
+      "image": "/food/fries.jpg",
+      "title": "Large Chips",
+      "desc": "A large serving of crispy chips.",
+      "price": null,
+      "type": "snacks"
+    },
+    {
+      "image": "/food/chicken-sandwich.jpg",
+      "title": "Zinger Burger",
+      "desc": "A spicy chicken burger.",
+      "price": "18000",
+      "type": "burger"
+    },
+    {
+      "image": "/food/chicken-sandwich.jpg",
+      "title": "Twister",
+      "desc": "A chicken wrap with salad and dressing.",
+      "price": null,
+      "type": "rolls"
+    },
+    {
+      "image": "/food/cola.jpg",
+      "title": "Pepsi 500 ml",
+      "desc": "A chilled soft drink.",
+      "price": "3000",
+      "type": "beverages"
+    },
+    {
+      "image": "/food/dessert.jpg",
+      "title": "Krushers",
+      "desc": "A chilled blended dessert drink.",
+      "price": null,
+      "type": "beverages"
+    },
+    {
+      "image": "/food/fried-chicken.jpg",
+      "title": "8 Piece Bucket",
+      "desc": "A bucket meal for sharing.",
+      "price": "60000",
+      "type": "stayhome"
+    },
+    {
+      "image": "/food/fried-chicken.jpg",
+      "title": "12 Piece Bucket",
+      "desc": "A larger chicken bucket for sharing.",
+      "price": "85000",
+      "type": "stayhome"
+    }
+  ]
+}
