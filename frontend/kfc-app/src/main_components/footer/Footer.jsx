@@ -5,7 +5,6 @@ import instagram from "../../assets/svg/instagram.svg"
 import facebook from "../../assets/svg/facebook.svg"
 import twitter from "../../assets/svg/twitter.svg"
 import footkfc from "../../assets/svg/footkfc.svg"
-
 const FooterStyled = styled.div`
  text-align: center;
 .footermaindiv{
