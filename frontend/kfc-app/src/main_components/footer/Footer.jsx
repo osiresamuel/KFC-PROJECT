@@ -231,23 +231,27 @@ export const Footer = () => {
                         <div className='lastLinefoot'>
                             <p>Copyright © KFC Corporation 2022 All Rights Reserved</p>
                             <div
-                                className="projectTeamCredits"
-                                style={{
-                                    textAlign: "center",
-                                    padding: "12px 8px",
-                                    lineHeight: "1.8"
-                                }}
-                            >
-                                <p style={{ fontWeight: "bold", margin: "0 0 4px" }}>
-                                    Project Team
-                                </p>
-                                <p style={{ margin: "0" }}>
-                                    Ainebyona Alban — S25D14/022
-                                </p>
-                                <p style={{ margin: "0" }}>
-                                    Mawejje Alesha — S25D14/012
-                                </p>
-                            </div>
+                                <div
+    className="projectTeamCredits"
+    style={{
+        textAlign: "center",
+        padding: "12px 8px",
+        lineHeight: "1.8",
+        width: "100%"
+    }}
+>
+    <p style={{ fontWeight: "bold", margin: "0 0 4px" }}>
+        Project Team
+    </p>
+
+    <p style={{ margin: "0" }}>
+        S2SD14/023 — MUSINGUZI BRIAN
+    </p>
+
+    <p style={{ margin: "0" }}>
+        S25D14/002 — OSIRE SAMUEL
+    </p>
+</div>
                         </div>
                         <div style={{ display: "flex" }} className='lastLinefoot'>
                             <Link to={"https://www.instagram.com/_mad___boxer_/"}><img height={"30rem"} style={{ padding: "0.3vw 1vw" }} src={instagram} alt="" /></Link>
