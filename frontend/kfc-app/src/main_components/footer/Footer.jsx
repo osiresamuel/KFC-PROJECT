@@ -5,7 +5,10 @@ import instagram from "../../assets/svg/instagram.svg"
 import facebook from "../../assets/svg/facebook.svg"
 import twitter from "../../assets/svg/twitter.svg"
 import footkfc from "../../assets/svg/footkfc.svg"
+<<<<<<< HEAD
 
+=======
+>>>>>>> 77ebcaa6d7d7d2b92481a3ed07869ab1e4d61a49
 const FooterStyled = styled.div`
  text-align: center;
 .footermaindiv{
@@ -231,6 +234,7 @@ export const Footer = () => {
                         <div className='lastLinefoot'>
                             <p>Copyright © KFC Corporation 2022 All Rights Reserved</p>
                             <div
+<<<<<<< HEAD
                                 className="projectTeamCredits"
                                 style={{
                                     textAlign: "center",
@@ -248,6 +252,29 @@ export const Footer = () => {
                                     Mawejje Alesha — S25D14/012
                                 </p>
                             </div>
+=======
+                                <div
+    className="projectTeamCredits"
+    style={{
+        textAlign: "center",
+        padding: "12px 8px",
+        lineHeight: "1.8",
+        width: "100%"
+    }}
+>
+    <p style={{ fontWeight: "bold", margin: "0 0 4px" }}>
+        Project Team
+    </p>
+
+    <p style={{ margin: "0" }}>
+        S2SD14/023 — MUSINGUZI BRIAN
+    </p>
+
+    <p style={{ margin: "0" }}>
+        S25D14/002 — OSIRE SAMUEL
+    </p>
+</div>
+>>>>>>> 77ebcaa6d7d7d2b92481a3ed07869ab1e4d61a49
                         </div>
                         <div style={{ display: "flex" }} className='lastLinefoot'>
                             <Link to={"https://www.instagram.com/_mad___boxer_/"}><img height={"30rem"} style={{ padding: "0.3vw 1vw" }} src={instagram} alt="" /></Link>

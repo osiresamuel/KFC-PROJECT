@@ -190,6 +190,7 @@ export const Footer = () => {
                             <ul>
                                 <p>Career</p>
                                 <li>Restaurant Careers</li>
+<<<<<<< HEAD
                                                 <div className="lastbox44">
                                                     <div className="section44" style={{ width: '100%', justifyContent: 'center', alignItems: 'center', display: 'flex' }}>
                                                         <div className='lastLinefoot'>
@@ -197,6 +198,35 @@ export const Footer = () => {
                                                         </div>
                                                     </div>
                                                 </div>
+=======
+                                <li>Corporate Careers</li>
+                                <li>Culture</li>
+                                <li>Growth</li>
+                            </ul>
+                        </div>
+                        <div className="cards44">
+                            <ul>
+                                <p>Resources</p>
+                                <li>FAQs</li>
+                                <li>Contact Us</li>
+                                <li>KFC App</li>
+                            </ul>
+                        </div>
+                        <div className="cards44">
+                            <ul>
+                                <p>Find a KFC</p>
+                                <li>Find a KFC</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div className="lastbox44">
+                        <div className="section44">
+                            <div className='lastLinefoot'>
+                                <p>Privacy Policy </p>
+                            </div>
+                            <div className='lastLinefoot'>
+                                <p>Updated 01/2022</p>
+>>>>>>> 77ebcaa6d7d7d2b92481a3ed07869ab1e4d61a49
                             </div>
                             <div className='lastLinefoot'>
                                 <p>Terms Of Use</p>

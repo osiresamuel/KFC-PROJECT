@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 node_modules/
 .env
 .env.*
@@ -6,3 +7,13 @@ build/
 dist/
 coverage/
 npm-debug.log*
+=======
+node_modules/
+.env
+.env.*
+!.env.example
+build/
+dist/
+coverage/
+npm-debug.log*
+>>>>>>> 77ebcaa6d7d7d2b92481a3ed07869ab1e4d61a49
